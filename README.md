@@ -1,0 +1,1 @@
+# program-lanjut_inheritance
